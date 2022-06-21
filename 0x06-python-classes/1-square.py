@@ -1,4 +1,5 @@
-ng a square and its size"""
+#!/usr/bin/python3
+"""defining a square and its size"""
 
 
 class Square:
